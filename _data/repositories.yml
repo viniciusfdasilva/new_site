@@ -1,14 +1,10 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - viniciusfdasilva
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - viniciusfdasilva/vchip8
+  - viniciusfdasilva/riscv_emulator
+  - viniciusfdasilva/danixfs
+  - viniciusfdasilva/riscv64_asm

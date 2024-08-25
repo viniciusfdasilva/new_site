@@ -2,24 +2,28 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
-  align: right
-  image: prof_pic.jpg
+  align: rigth
+  image: vinicius.jpeg
+  
+
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
-
-news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+    <div style="width: 350px">
+      <a href="mailto:vinicius.silva@dcc.ufmg.br">vinicius.silva@dcc.ufmg.br</a>
+      <p>LaC Rm. 2301 - DCC - UFMG,</p>
+      <p>6627 Ave. Antônio Carlos,</p> 
+      <p>ICEx Building - Pampulha,</p>
+      <p>Belo Horizonte, MG, Brazil</p>
+    </div>
+news: false # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Master’s student in Computer Science at <a href="https://ppgcc.dcc.ufmg.br/">PPGCC</a> (Graduate Program in Computer Science) at <a href="https://ufmg.br/">UFMG</a> (Federal University of Minas Gerais), working at <a href="https://lac-dcc.github.io/">LaC</a> (Compilers Lab), which belongs to <a href="https://dcc.ufmg.br/">DCC</a> (Department of Computer Science), under the supervision of <a href="https://dcc.ufmg.br/professor/fernando-magno-quintao-pereira/">Fernando Quintão Pereira</a>.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Bachelor of Computer Science from the <a href="https://pucminas.br/">PUCMINAS</a> (Pontifical Catholic University of Minas Gerais), with two years of experience as a researcher in the field of compilers and operating systems. My research interests include containerized environments, code optimization, virtual machines, processor emulators, and interprocess communication.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Linux Kernel Developer at <a href="https://magalu.cloud/">MagaluCloud</a> and Member of the <a href="https://www.sbc.org.br/">SBC</a> (Brazilian Computer Society), the <a href="https://www.ieee.org/">IEEE</a> and the <a href="https://acm.org/">ACM</a> (Association for Computing Machinery).
