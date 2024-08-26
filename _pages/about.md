@@ -27,3 +27,15 @@ Master’s student in Computer Science at <a href="https://ppgcc.dcc.ufmg.br/">P
 Bachelor of Computer Science from the <a href="https://pucminas.br/">PUCMINAS</a> (Pontifical Catholic University of Minas Gerais), with two years of experience as a researcher in the field of compilers and operating systems. My research interests include containerized environments, code optimization, virtual machines, processor emulators, and interprocess communication.
 
 Linux Kernel Developer at <a href="https://magalu.cloud/">MagaluCloud</a> and Member of the <a href="https://www.sbc.org.br/">SBC</a> (Brazilian Computer Society), the <a href="https://www.ieee.org/">IEEE</a> and the <a href="https://acm.org/">ACM</a> (Association for Computing Machinery).
+
+### Areas of interest
+* Compilers
+* Code Optimization
+* Operating Systems
+* Cloud Computing
+* Programming Languages
+* Static Program Analysis
+* Virtualization and Containerization
+* Interprocess Communication
+* Programming Language Theory λ
+* Computer Architecture
