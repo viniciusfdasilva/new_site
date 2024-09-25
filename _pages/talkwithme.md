@@ -37,7 +37,7 @@ pagination:
               <h5 class="text">Where:</h5>
 
               <ul>
-                  <li>LaC Rm. 2301 - DCC - UFMG, 6627 Ave. Antônio Carlos, ICEx Building - Pampulha, Belo Horizonte, MG, Brazil</li>
+                  <li>Compilers Laboratory Rm. 2301 - DCC - UFMG, 6627 Ave. Antônio Carlos, ICEx Building - Pampulha, Belo Horizonte, MG, Brazil</li>
               </ul>
             </div>
       </section>
