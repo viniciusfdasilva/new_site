@@ -8,6 +8,25 @@ nav_order: 5
 ---
 <hr/>
 <div class="project">             
+<h3 class="text">DCC Week</h3><br>
+<img width="150" height="66" src="https://week.dcc.ufmg.br/wp-content/uploads/dcc-week-horizontal.png"><br>
+<img width="150" height="66" src="https://lattes.dcc.ufmg.br/Logo-DCC.png"><br>
+<a href="https://week.dcc.ufmg.br/wp-content/downloads/2024/174_dccweek2024.pdf">link</a>
+</div>
+<hr/>
+<div class="project">             
+<h3 class="text">Treinamento FinOps</h3><br>
+<img width="190" height="66" src="https://vagas.byintera.com/wp-content/uploads/2021/04/luiza-labs.1616501197-1024x376.png"><br>
+<a href="https://silvavinicius.com.br/resume/FinOps.pdf">link</a>
+</div>
+<hr/>
+<div class="project">             
+<h3 class="text">Huawei ICT Roadshow</h3><br>
+<img width="100" height="90" src="https://upload.wikimedia.org/wikipedia/pt/1/11/Huawei_logo.png"><br>
+<a href="https://upload.wikimedia.org/wikipedia/pt/1/11/Huawei_logo.png">link</a>
+</div>
+<hr/>
+<div class="project">             
 <h3 class="text">Artificial Intelligence, spatial analysis and access to healthcare</h3><br>
 <img width="100" height="90" src="https://i.pinimg.com/736x/9c/3d/6d/9c3d6d0a0b6d4d4005141d0220952b62.jpg"><br>
 <a href="https://silvavinicius.com.br/resume/Certificado_Disciplina.pdf">link</a>
