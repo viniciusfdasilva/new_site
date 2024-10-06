@@ -21,7 +21,8 @@ pagination:
           <span class="text" style="font-size: 25px;">Talk virtually</span><br/><br/>
           <div class="project">
             <div class="project">
-                <p style="text-align: justify; text-justify: inter-word;">Email: <a href="mailto: viniciusilva@ieee.org">vinicius.silva@dcc.ufmg.br</a></p>
+                <p style="text-align: justify; text-justify: inter-word;">Email: <a href="mailto: silva.vinicius@dcc.ufmg.br">silva.vinicius@dcc.ufmg.br</a></p>
+                <p style="text-align: justify; text-justify: inter-word;">Email: <a href="mailto: viniciusdasilva@ufmg.br">viniciusdasilva@ufmg.br</a></p>
             </div>
 
             <span class="text" style="font-size: 25px;">Talk in person</span><br/><br/>

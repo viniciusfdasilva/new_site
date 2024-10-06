@@ -11,7 +11,8 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <div style="width: 350px">
-      <a href="mailto:vinicius.silva@dcc.ufmg.br">vinicius.silva@dcc.ufmg.br</a>
+      <a href="mailto:silva.vinicius@dcc.ufmg.br">silva.vinicius@dcc.ufmg.br</a>
+      <a href="mailto:viniciusdasilva@ufmg.br">viniciusdasilva@ufmg.br</a>
       <p>LaC Rm. 2301 - DCC - UFMG,</p>
       <p>6627 Ave. Antônio Carlos,</p> 
       <p>ICEx Building - Pampulha,</p>
@@ -38,9 +39,9 @@ Linux Kernel Developer at <a href="https://magalu.cloud/">MagaluCloud</a> and Me
 * Code Optimization
 * Operating Systems
 * Cloud Computing
+* Satisfiability Modulo Theories (SMT)
 * Programming Languages
 * Static Program Analysis
 * Virtualization and Containerization
-* Interprocess Communication
+* Kernel Bypass techniques
 * Programming Language Theory λ
-* Computer Architecture
